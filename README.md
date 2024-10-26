@@ -11,7 +11,7 @@
 На GitHub делюсь своими проектами, полезными материалами и всегда открыт к сотрудничеству с другими авторами документации и гайдов.
 
 # English
-## 👋 Hi! I’m Ordinary Goblin
+## 👋 Hi! I’m Dionis
 
 ### About Me
 I specialize in creating clear and accessible documentation, guides, and tutorials. My primary focus is writing guides for the game **Sunflower Land**, collecting valuable insights and helping the community better understand the game.
