@@ -9,7 +9,9 @@
 
 ### На GitHub
 На GitHub делюсь своими проектами, полезными материалами и всегда открыт к сотрудничеству с другими авторами документации и гайдов.
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@DIonis404/30-nites-of-code)  
+  ![@DIonis404 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DIonis404)
 # English
 ## 👋 Hi! I’m Dionis
 
