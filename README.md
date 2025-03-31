@@ -1,25 +1,23 @@
-# Russian
-## 👋 Привет! Я — Дионис
+### Привет! 👋 Меня зовут Дионис  
+💻 Недавно начал изучать программирование | 🎨 Обожаю пиксель-арт  
+🌍 Перевожу Sunflower Land на русский  
 
-### О себе
-Я специализируюсь на создании понятной и доступной документации, гайдов и инструкций. В первую очередь пишу гайды для игры **Sunflower Land**, собирая полезную информацию и помогая сообществу лучше разобраться в игре.
+---
 
-### Мои инструменты
-📘 Я использую **GitBook** для структурирования и публикации контента, уделяя особое внимание простоте и доступности, чтобы материалы были понятны даже новичкам.
+## 📊 GitHub статистика  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIonis404&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIonis404&layout=compact&theme=dark)  
 
-### На GitHub
-На GitHub делюсь своими проектами, полезными материалами и всегда открыт к сотрудничеству с другими авторами документации и гайдов.
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@DIonis404/30-nites-of-code)  
-  ![@DIonis404 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DIonis404)
-# English
-## 👋 Hi! I’m Dionis
+---
 
-### About Me
-I specialize in creating clear and accessible documentation, guides, and tutorials. My primary focus is writing guides for the game **Sunflower Land**, collecting valuable insights and helping the community better understand the game.
+## 🔥 #30NitesOfCode  
+[Check out my progress!](https://www.codedex.io/@DIonis404/30-nites-of-code)  
+![@DIonis404 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DIonis404)  
 
-### Tools I Use
-📘 I use **GitBook** to structure and publish my content, with a focus on simplicity and accessibility, making my guides easy to follow, even for beginners.
+---
 
-### On GitHub
-On GitHub, I share my projects and helpful materials and am always open to collaborating with other documentation and guide creators.
+## 📫 Где меня найти?  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/reborn_character)  
+
+⚡ **Факт обо мне:** Я обожаю пиксель-арт и мечтаю создать свою игру! 🎮  
+
