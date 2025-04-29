@@ -5,9 +5,7 @@
 ---
 
 ## 📊 GitHub статистика  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIonis404&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIonis404&layout=compact&theme=dark)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIonis404&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIonis404&layout=compact&theme=dark)  
 ---
 
 ## 🔥 #30NitesOfCode  
