@@ -1,37 +1,46 @@
-### Привет! 👋 Меня зовут Дионис  ![Sunflower Land](https://animations.sunflower-land.com/animated_webp/0_v1_32_4_74_181_20_22_418_424_30_0_0_0_0_410/idle-small) 
-💻 Недавно начал изучать программирование | 🎨 Обожаю пиксель-арт  
-🌍 Перевожу Sunflower Land на русский  
+# 👾 Привет, я Дионис!  
+_Из баристы в ИТ_
 
----
-# Sunflower land - best Web3 Game
-![image](https://github.com/user-attachments/assets/1978a7b6-7131-4dc6-b96c-442191cde547)
-Именно данный проект вдохновил меня на узучение програмирования и работой над блогам и игрой. 
+![pixel-banner](https://i.ibb.co/1m0LmMc/pixel-banner.gif) <!-- сюда можно поставить свой пиксельный баннер -->
 
-Сайт с гайдами и документацией.   
-### [Goblin Guide](https://github.com/Dionis404/Goblin-Guide)
-
-Семейство ботов для группы: 
-  
-### [Аукционист](https://github.com/Dionis404/-TGBot-Auction)
-
-
-## 📊 GitHub статистика  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIonis404&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIonis404&layout=compact&theme=dark)  
----
-
-
-
-
-
-
-## 🔥 #30NitesOfCode  
-[Check out my progress!](https://www.codedex.io/@DIonis404/30-nites-of-code)  
-![@DIonis404 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DIonis404)  
+## 🎮 О себе
+- Перевожу **Sunflower Land** на русский язык 🌻  
+- Создаю фан-сайт [Goblin Guides](https://sflguide.fun/) с гайдами для русских игроков  
+- Изучаю автоматизацию (Camunda, n8n, LLM, скрипты)  
+- Постепенно прокачиваю навыки программирования и ИТ-логики  
 
 ---
 
-## 📫 Где меня найти?  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/reborn_character)  
+## 🔧 Стек технологий
+**Изучаю и использую:**  
+- 💻 Python · JavaScript · HTML/CSS  
+- ⚙️ Camunda · n8n · LLM  
+- 🎨 VS Code · Photoshop · Aseprite  
 
-⚡ **Факт обо мне:** Я обожаю пиксель-арт и мечтаю создать свою игру! 🎮  
+---
 
+## 🚀 Над чем работаю:
+![sfl](https://sunflower-land.com/long_logo.png)  
+**Goblin Guides**
+📖 Фанатский сайт с гайдами для игроков **Sunflower Land**  
+- Репозиторий: [github.com/Dionis404/sflguide](https://github.com/Dionis404/sflguide)  
+- Сайт: [sflguide.fun](https://sflguide.fun/)
+
+**Рускоязычно сообщесво в Telegram**
+- ТГК: https://t.me/URGSFL
+- Бот Тайвин [Уведомления об изменениях курса цены] - Сделан
+- Бот Аукционист [Уведомление об аукционах] - в работе
+- Бот Обычный гоблин [Бот который дает ответы на вопросы на основе сайта] - в работе
+---
+
+## 📊 GitHub Статистика
+![Dionis GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionis404&show_icons=true&theme=gruvbox)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionis404&layout=compact&theme=gruvbox)  
+
+---
+
+## 📫 Контакты
+- Telegram: [@Reborn_character](https://t.me/Reborn_character)  
+
+---
+
+🔥 В планах: больше проектов, автоматизация и игры.  
