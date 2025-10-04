@@ -21,7 +21,7 @@ _Из баристы в ИТ_
 
 ## 🚀 Над чем работаю:
 ![sfl](https://sunflower-land.com/long_logo.png)  
-**Goblin Guides**
+**Goblin Guides**  
 📖 Фанатский сайт с гайдами для игроков **Sunflower Land**  
 - Репозиторий: [github.com/Dionis404/sflguide](https://github.com/Dionis404/sflguide)  
 - Сайт: [sflguide.fun](https://sflguide.fun/)
